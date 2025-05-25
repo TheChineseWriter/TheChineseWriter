@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheChineseWriter
 - 👀 I’m interested in building a really good Chinese Learning website.
-- 🌱 I’m currently learning HTML/PHP, CSS/Sass, Javascript/Typescript,  and MySQL/MariaDB. Other web related programming languages are also bing explored such as Python.
+- 🌱 I’m currently learning HTML/PHP, CSS/Sass, Javascript/Typescript,  and MySQL/MariaDB. Other web related programming languages are also being explored such as Python.
 - 💞️ I’m looking to collaborate on Mandarin or Cantonese Dictionary projects.
 - 📫 How to reach me https://www.thechinesewriter.co.uk
 
